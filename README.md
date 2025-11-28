@@ -50,6 +50,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m005h1&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <!-- Alternative 1 -->
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m005h1&show_icons=true&theme=radical" alt="My GitHub Stats" />
   <br/>

@@ -66,8 +66,7 @@
 
 <p align="center">
   <a href="https://amna-kausar.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
-  </a>
+  <img src="https://img.shields.io/badge/Portfolio-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>  </a>
   <a href="https://www.linkedin.com/in/amna-kausar/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>

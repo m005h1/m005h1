@@ -21,7 +21,7 @@
 
 ---
 
-### 📜 **The Seeker's Journal (Latest Achievements)**
+### 📜 **The Seeker's Journal**
 
 *   🏆 **Completed a Quest:** Graduated with the _Best Thesis Award_ in May 2025.
 *   🛠️ **Forged a New Charm:** Published a new research paper on _Gender Diversity, Region Diversity, IPR, and H-Index_! [[Link to Paper]](https://doi.org/10.4018/979-8-3373-7513-7.ch007)

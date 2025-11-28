@@ -64,7 +64,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-website.com">
+  <a href="https://amna-kausar.vercel.app/">
     <img src="https://img.shields.io/badge/My%Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/yourprofile">

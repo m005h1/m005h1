@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/hollow-knight-divider.png" width="400" alt="Divider">
+  <img src="https://i.ibb.co/0Q8L2yZ/hollow-knight-bench.png" width="300" alt="Hollow Knight Bench">
 </p>
 
 <p align="center">

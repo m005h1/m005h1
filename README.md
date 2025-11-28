@@ -50,8 +50,10 @@
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=m005h1&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="My GitHub Stats" />  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m005h1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <!-- Alternative 1 -->
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m005h1&show_icons=true&theme=radical" alt="My GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m005h1&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---

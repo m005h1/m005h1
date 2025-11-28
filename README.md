@@ -43,21 +43,20 @@
 ### 💎 **Charms & Relics**
 
 <p align="center">
-  <!-- You can generate these badges from https://shields.io/ or similar sites -->
+  <!-- Simple skill badges -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
 </p>
 
 <p align="center">
+  <!-- Simple stats that work -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m005h1&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <!-- Alternative 1 -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=m005h1&show_icons=true&theme=radical" alt="My GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=m005h1&layout=compact&theme=radical" alt="Top Languages" />
+  <!-- GitHub profile view counter -->
+  <img src="https://komarev.com/ghpvc/?username=m005h1&color=ff69b4&style=flat" alt="Profile views" /> 
 </p>
 
 ---

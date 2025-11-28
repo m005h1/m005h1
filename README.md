@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <i>Documenting strange creatures and forgotten lore</i>
+  <i>Documenting strange ideas and forgotten code</i>
 </p>
 
 ---

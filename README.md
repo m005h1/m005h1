@@ -40,20 +40,19 @@
 
 ---
 
-### 💎 **Charms & Relics (Stats & Tools)**
+### 💎 **Charms & Relics**
 
 <p align="center">
   <!-- You can generate these badges from https://shields.io/ or similar sites -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true" alt="My GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=m005h1&show_icons=true&theme=radical&hide_border=true" alt="My GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m005h1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---

@@ -26,6 +26,7 @@
 *   🏆 **Completed a Quest:** Published a new research paper on _[Your Paper Topic]_! [[Link to Paper]](#)
 *   🛠️ **Forged a New Charm:** Just released _[Your Latest Project Name]_, a tool for _[what it does]_. [[View Repository]](#)
 *   🌱 **Tended the Gardens:** Volunteered with _[Organization Name]_ to teach AI concepts.
+*   🐞 **Bug Collector:** Documenting fascinating insects in the wild. [[iNaturalist Profile]](https://www.inaturalist.org/people/banamna)
 
 ---
 
@@ -65,16 +66,22 @@
 
 <p align="center">
   <a href="https://amna-kausar.vercel.app/">
-    <img src="https://img.shields.io/badge/My%Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/amna-kausar/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your-email@domain.com">
+  <a href="https://orcid.org/0009-0000-3940-8845">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+  </a>
+  <a href="mailto:2004amnas@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://discord.com/users/m005h1">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://www.inaturalist.org/people/banamna">
+    <img src="https://img.shields.io/badge/iNaturalist-%2300C967?style=for-the-badge&logo=iNaturalist&logoColor=white" alt="iNaturalist"/>
   </a>
 </p>
 

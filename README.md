@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://i.ibb.co/0Q8L2yZ/hollow-knight-bench.png" width="300" alt="Hollow Knight Bench">
+  <img src="https://raw.githubusercontent.com/AmnaKausar/assets/main/hollow-knight-bench.png" width="300" alt="Rest at the Bench">
 </p>
 
 <p align="center">

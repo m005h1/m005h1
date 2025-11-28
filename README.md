@@ -86,7 +86,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/m005h1/assets/blob/main/bench.png" width="300" alt="Rest at the Bench">
+  <img src="https://githubusercontent.com/m005h1/assets/blob/main/bench.png" width="300" alt="Rest at the Bench">
 </p>
 
 <p align="center">

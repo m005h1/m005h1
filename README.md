@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="https://github.com/user-attachments/assets/a1b2c3d4-e5f6-7890-ab12-c345def67890" alt="Hello!" width="50"/>
+  <img src="https://github.com/m005h1/assets/blob/main/vengefulspirit.png" alt="Hello!" width="50"/>
   Greetings, Traveller!
-  <img src="https://github.com/user-attachments/assets/a1b2c3d4-e5f6-7890-ab12-c345def67890" alt="Hello!" width="50"/>
+  <img src="https://github.com/m005h1/assets/blob/main/vengefulspirit.png" alt="Hello!" width="50"/>
 </h1>
 
 <p align="center">

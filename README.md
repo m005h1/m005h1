@@ -10,16 +10,6 @@
 
 ---
 
-### 🗺️ **The Map of Hallownest (My Journey)**
-
-| **The Kingdom's Edge (Core Skills)** | **The City of Tears (Projects)** | **Fog Canyon (Research)** |
-| :--- | :--- | :--- |
-| `Python` `PyTorch` `TensorFlow` | 🧠 **Dream Nail:** LLM Fine-Tuning | 📜 **Whispering Roots:** AI Research Papers |
-| `Transformers` `Diffusion Models` | 🕸️ **Weaverlings:** Multi-Agent Systems | _Uncovering the ancient knowledge of the kingdom._ |
-| `Computer Vision` `LLMs` | 🐛 **Grubfinder:** CV & NLP Tools | |
-| `RAG` `OpenAI` `Hugging Face` | ⚔️ **Nail Arts:** MLOps & Deployment | |
-
----
 
 ### 📜 **The Seeker's Journal**
 
@@ -28,16 +18,6 @@
 *   🌱 **Tended the Gardens:** Volunteered with _Omdena_ to create a computer vision AI solution to help marine biologists.
 *   🐞 **Grub Collector:** Documenting fascinating insects in the wild. <a href="https://www.inaturalist.org/people/banamna"><img src="https://img.shields.io/badge/iNaturalist-%2300C967?style=for-the-badge&logo=iNaturalist&logoColor=white" alt="iNaturalist"/>
   </a>
-
----
-
-### 🏛️ **The Teacher's Archives (Featured Projects)**
-
-| Project | Description | Charm (Tech Stack) |
-| :--- | :--- | :--- |
-| **[Silent Knight LLM](https://github.com/yourusername/silent-knight)** | A fine-tuned language model that speaks the secrets of the old kingdom. | `PyTorch` `Transformers` `LoRA` |
-| **[Crystal Peak Miner](https://github.com/yourusername/crystal-miner)** | Extracting precious insights from unstructured data veins. | `spaCy` `BERT` `Scikit-learn` |
-| **[Hiveblood Agent](https://github.com/yourusername/hiveblood-agent)** | A resilient reinforcement learning agent that learns from its mistakes. | `OpenAI Gym` `Stable-Baselines3` |
 
 ---
 

@@ -5,7 +5,7 @@
 </h1>
 
 <p align="center">
-  <i>I wander the ancient ruins of Deep Learning, mapping the uncharted territories of AI.</i>
+  <i>Documenting strange creatures and forgotten lore</i>
 </p>
 
 ---

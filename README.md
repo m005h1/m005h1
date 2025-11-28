@@ -8,6 +8,7 @@
   <i>Documenting strange creatures and forgotten lore</i>
 </p>
 
+---
 
 ### 📜 **The Seeker's Journal**
 

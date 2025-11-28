@@ -23,10 +23,11 @@
 
 ### 📜 **The Seeker's Journal (Latest Achievements)**
 
-*   🏆 **Completed a Quest:** Published a new research paper on _[Your Paper Topic]_! [[Link to Paper]](#)
-*   🛠️ **Forged a New Charm:** Just released _[Your Latest Project Name]_, a tool for _[what it does]_. [[View Repository]](#)
-*   🌱 **Tended the Gardens:** Volunteered with _[Organization Name]_ to teach AI concepts.
-*   🐞 **Bug Collector:** Documenting fascinating insects in the wild. [[iNaturalist Profile]](https://www.inaturalist.org/people/banamna)
+*   🏆 **Completed a Quest:** Graduated with the _Best Thesis Award_ in May 2025.
+*   🛠️ **Forged a New Charm:** Published a new research paper on _Gender Diversity, Region Diversity, IPR, and H-Index_! [[Link to Paper]](https://doi.org/10.4018/979-8-3373-7513-7.ch007)
+*   🌱 **Tended the Gardens:** Volunteered with _Omdena_ to create a computer vision AI solution to help marine biologists.
+*   🐞 **Grub Collector:** Documenting fascinating insects in the wild. <a href="https://www.inaturalist.org/people/banamna"><img src="https://img.shields.io/badge/iNaturalist-%2300C967?style=for-the-badge&logo=iNaturalist&logoColor=white" alt="iNaturalist"/>
+  </a>
 
 ---
 
@@ -82,9 +83,7 @@
   <a href="https://discord.com/users/m005h1">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
-  <a href="https://www.inaturalist.org/people/banamna">
-    <img src="https://img.shields.io/badge/iNaturalist-%2300C967?style=for-the-badge&logo=iNaturalist&logoColor=white" alt="iNaturalist"/>
-  </a>
+
 </p>
 
 <p align="center">

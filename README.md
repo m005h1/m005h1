@@ -14,7 +14,7 @@
 *   🏆 **Completed a Quest:** Graduated with the _Best Thesis Award_ in May 2025.
 *   🛠️ **Forged a New Charm:** Published a new research paper on [_Gender Diversity, Region Diversity, IPR, and H-Index_](https://doi.org/10.4018/979-8-3373-7513-7.ch007) !
 *   🌱 **Tended the Gardens:** Volunteered with _Omdena_ to create a computer vision AI solution to help marine biologists.
-*   🐞 **Grub Collector:** Documenting fascinating insects in the wild. <a href="https://www.inaturalist.org/people/banamna"><img src="https://img.shields.io/badge/iNaturalist-%2300C967?style=for-the-badge&logo=iNaturalist&logoColor=white" alt="iNaturalist"/>
+*   🐞 **Grub Collector:** Documenting insects in the wild. <a href="https://www.inaturalist.org/people/banamna"><img src="https://img.shields.io/badge/iNaturalist-%2300C967?style=for-the-badge&logo=iNaturalist&logoColor=white" alt="iNaturalist"/>
   </a>
 
 ---

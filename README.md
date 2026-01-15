@@ -26,13 +26,9 @@
 
 ---
 
-### 🧬 **// BIOLOGICAL_PROFILE**
-
 > *An engineer standing at the edge of the data stream. My work bridges the gap between raw data and human understanding. Whether mapping seagrass from orbit or decoding the ethics of AI, I build systems that clarify the noise.*
 
 <br />
-
-### 🗃️ **// DATA_ARCHIVE**
 
 | ID | Protocol / Research | Status |
 | :--- | :--- | :--- |
@@ -42,8 +38,6 @@
 | **04** | **Field Research**<br>_Documenting Biodiversity on iNaturalist_ | <a href="https://www.inaturalist.org/people/banamna"><img src="https://img.shields.io/badge/iNaturalist-0f172a?style=flat-square&logo=iNaturalist&logoColor=10b981&labelColor=0f172a" alt="iNaturalist"/></a> |
 
 <br />
-
-### 🛠️ **// TECH_MODULES**
 
 **`> MODULE_01: NEURAL_CORE (AI/ML)`**
 <br>
@@ -68,15 +62,7 @@
 
 <br />
 
-### 📊 **// LIVE_DATA_STREAM**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m005h1&theme=dark&hide_border=true&background=0f172a&ring=14b8a6&fire=10b981&currStreakLabel=14b8a6&sideNums=10b981&dates=64748b" alt="GitHub Streak" />
-</div>
-
 <br />
-
-### 📡 **// SIGNAL_TERMINUS**
 
 <div align="center" id="signal-terminus">
   <a href="https://amna-kausar.vercel.app/">

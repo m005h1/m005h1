@@ -1,10 +1,6 @@
 <div align="center">
-  <br />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=header&text=AMNA.BUILDS&fontSize=60&fontAlignY=40&desc=%2F%2F%20SYSTEM%20STATUS:%20ONLINE&descAlignY=65&descSize=16&fontColor=14b8a6&animation=fadeIn" alt="Amna Builds Header" />
-  <br />
-  
   <h3 style="color: #10b981;">
-    <code>// ARCHITECT OF SYNTHETIC INTELLIGENCE</code>
+    <code>// Amna K.</code>
   </h3>
   
   <p>

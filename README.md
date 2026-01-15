@@ -1,74 +1,83 @@
-<h1 align="center">
-  <img src="https://github.com/m005h1/assets/blob/main/vengefulspirit.png" alt="Hello!" width="50"/>
-  Greetings, Traveller!
-  <img src="https://github.com/m005h1/assets/blob/main/vengefulspirit.png" alt="Hello!" width="50"/>
-</h1>
+<div align="center">
+  <br />
+  <h1 style="border-bottom: none;">Amna<span style="color: #14b8a6">.</span>K.</h1>
+  <h3><i>Following in DaVinci's footsteps</i></h3>
+  <br />
+</div>
 
-<p align="center">
-  <i>Documenting strange ideas and forgotten code</i>
+<div align="center">
+  <p>
+    <b>AI Engineer</b> &bull; <b>Researcher</b> &bull; <b>Aquascaper</b>
+  </p>
+  <p>
+    Welcome to my projects. I build systems that bridge complexity with computational logic. 
+    Currently focused on NeuroAI, Ethics and Healthcare.
+  </p>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" height="2" alt="divider">
+</div>
+
+<br />
+
+### 📜 **Research Log**
+
+> *Observations from the field and the lab.*
+
+* **🏆 Distinction:** Awarded **Best Thesis Award** (May 2025).
+* **📄 Publication:** Authored [_Gender Diversity, Region Diversity, IPR, and H-Index_](https://doi.org/10.4018/979-8-3373-7513-7.ch007).
+* **🌱 Impact:** Volunteered with **Omdena** to build Computer Vision solutions for marine biology conservation.
+* **🦋 Field Work:** documenting biodiversity. <a href="https://www.inaturalist.org/people/banamna"><img align="center" src="https://img.shields.io/badge/iNaturalist-10b981?style=flat-square&logo=iNaturalist&logoColor=white" alt="iNaturalist"/></a>
+
+<br />
+
+### 🛠️ **Tech Stack**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=14b8a6" />
+  <img src="https://img.shields.io/badge/PyTorch-0f172a?style=for-the-badge&logo=pytorch&logoColor=ee4c2c" />
+  <img src="https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=orange" />
+  <img src="https://img.shields.io/badge/OpenCV-0f172a?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.JS-0f172a?style=for-the-badge&logo=next.js&logoColor=white" />
 </p>
 
----
+<br />
 
-### 📜 **The Seeker's Journal**
+### 📊 **Data Stream**
 
-*   🏆 **Completed a Quest:** Graduated with the _Best Thesis Award_ in May 2025.
-*   🛠️ **Forged a New Charm:** Published a new research paper on [_Gender Diversity, Region Diversity, IPR, and H-Index_](https://doi.org/10.4018/979-8-3373-7513-7.ch007) !
-*   🌱 **Tended the Gardens:** Volunteered with _Omdena_ to create a computer vision AI solution to help marine biologists.
-*   🐞 **Grub Collector:** Documenting insects in the wild. <a href="https://www.inaturalist.org/people/banamna"><img src="https://img.shields.io/badge/iNaturalist-%2300C967?style=for-the-badge&logo=iNaturalist&logoColor=white" alt="iNaturalist"/>
-  </a>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m005h1&theme=tokyonight&hide_border=true&background=0f172a&ring=14b8a6&fire=10b981&currStreakLabel=14b8a6" alt="GitHub Streak" />
+</div>
 
----
+<br />
 
-### 💎 **Charms & Relics**
+### 📡 **Channels**
 
-<p align="center">
-  <!-- Simple skill badges -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-FF6B6B?style=for-the-badge&logo=ai&logoColor=white" />
-</p>
-
-<p align="center">
-  <!-- Simple stats that work -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m005h1&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <!-- GitHub profile view counter -->
-  <img src="https://komarev.com/ghpvc/?username=m005h1&color=ff69b4&style=flat" alt="Profile views" /> 
-</p>
-
----
-
-### 🐛 **Connect with the Hunter**
-
-<p align="center">
-  <i>The world beyond Hallownest is vast. Let's meet at the Stag Station.</i>
-</p>
-
-<p align="center">
+<div align="center">
   <a href="https://amna-kausar.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>  </a>
+    <img src="https://img.shields.io/badge/Portfolio-0f172a?style=flat&logo=google-chrome&logoColor=white&labelColor=14b8a6" alt="Portfolio"/>
+  </a>
   <a href="https://www.linkedin.com/in/amna-kausar/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=flat&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
   </a>
   <a href="https://orcid.org/0009-0000-3940-8845">
-    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"/>
+    <img src="https://img.shields.io/badge/ORCID-0f172a?style=flat&logo=orcid&logoColor=white&labelColor=A6CE39" alt="ORCID"/>
   </a>
   <a href="mailto:2004amnas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0f172a?style=flat&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
   </a>
-  <a href="https://discord.com/users/m005h1">
-    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
+</div>
 
-</p>
+<br />
+<br />
 
-<p align="center">
-  <img src="https://github.com/m005h1/assets/blob/main/bench.png" width="300" alt="Rest at the Bench">
-</p>
-
-<p align="center">
-  <i>No cost too great.</i>
-</p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=m005h1&color=14b8a6&style=flat-square&label=SYSTEM+VIEWS" alt="Profile views" /> 
+  <br />
+  <br />
+  <i>"Study the science of art. Study the art of science."</i>
+</div>

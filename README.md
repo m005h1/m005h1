@@ -12,8 +12,7 @@
 
 <div align="center">
   <code>
-    "Study the science of art. Study the art of science.<br/>
-    Develop your senses—especially your learn how to see."
+    Following in DaVincis footsteps
   </code>
   <br/>
   <br/>
@@ -26,7 +25,7 @@
 
 ---
 
-> *An engineer standing at the edge of the data stream. My work bridges the gap between raw data and human understanding. Whether mapping seagrass from orbit or decoding the ethics of AI, I build systems that clarify the noise.*
+> *An AI Engineer, Researcher, Aquascaper and Polymath.*
 
 <br />
 

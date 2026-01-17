@@ -1,7 +1,6 @@
 <div align="center">
-
-  <img src="https://images.unsplash.com/photo-1546459092-23425039e3cb?q=80&w=1200&auto=format&fit=crop" alt="Bioluminescent Aesthetics" width="100%" style="border-radius: 10px; opacity: 0.9;" />
-
+<img src="./shrimp-bowl.svg" alt="Bioluminescent Shrimp Bowl" width="300px" />
+  
   <br/><br/>
 
   # m005h1

@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./shrimp-bowl.svg" alt="Bioluminescent Shrimp Bowl" width="300px" />
+<img src="./shrimp-bowl.svg" alt="Bioluminescent Shrimp Bowl" width="50px" />
   
   <br/><br/>
 

@@ -3,10 +3,8 @@
   
   # m005h1
   
-  **AI Engineer & Researcher**
-  
-  Building neural architectures.  
-  **LLM Optimization** | **RAG Pipelines** | **Multi Agent Systems**.
+  **AI Engineer**
+  **LLM Optimization** | **RAG Pipelines** | **Multi Agent Systems**
 
   <br/>
 

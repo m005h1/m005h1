@@ -9,7 +9,7 @@
   **AI Engineer & Researcher**
   
   Building neural architectures.  
-  Focusing on **LLM Optimization**, **RAG Pipelines** and **Multi Agent Systems**.
+  **LLM Optimization** | **RAG Pipelines** | **Multi Agent Systems**.
 
   <br/>
 

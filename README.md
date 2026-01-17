@@ -2,10 +2,7 @@
 <img src="./shrimp-bowl.svg" alt="Bioluminescent Shrimp Bowl" width="100px" />
   
   # m005h1
-  
   **AI Engineer**
-  **LLM Optimization** | **RAG Pipelines** | **Multi Agent Systems**
-
   <br/>
 
   <p>

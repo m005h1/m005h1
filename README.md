@@ -1,8 +1,6 @@
 <div align="center">
-<img src="./shrimp-bowl.svg" alt="Bioluminescent Shrimp Bowl" width="50px" />
+<img src="./shrimp-bowl.svg" alt="Bioluminescent Shrimp Bowl" width="100px" />
   
-  <br/><br/>
-
   # m005h1
   
   **AI Engineer & Researcher**
